@@ -25,8 +25,8 @@ def read_csv_file(path, type = False) :
 # houseToward 东-1， 南-2， 西-3， 北-4，暂无数据-0
 # houseDecoration 精装-3， 简装-2， 毛坯-1， 其他-0
 ###########################################################
-def transfer_csv_file(ori_data):
+def transfer_csv_file(ori_data, name):
 
     rst_data = ori_data
 
-    rst_data.to_csv("data/transfer_test_a.csv", index=False, encoding='UTF-8')
+    rst_data.to_csv("data/" + "trans" + name , index=False, encoding='UTF-8')
