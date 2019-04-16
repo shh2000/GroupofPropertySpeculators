@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://I:/2018-2019课程作业/软件工程实验/ours/workstation/ApacheAssistant/.idea/ApacheAssistant.iml" filepath="I:/2018-2019课程作业/软件工程实验/ours/workstation/ApacheAssistant/.idea/ApacheAssistant.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/GroupofPropertySpeculators.iml" filepath="$PROJECT_DIR$/.idea/GroupofPropertySpeculators.iml" />
     </modules>
   </component>
